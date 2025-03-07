@@ -1,4 +1,4 @@
-# 🚀 **C# OOP - Homework Assignments**
+# **C# OOP - Homework Assignments**
 
 Welcome to my repository for the **Object-Oriented Programming with C#** course at SoftUni! This repository contains my solutions to various problems and exercises from the course. Below is a summary of the topics covered and how to navigate the repository.  
 
@@ -21,4 +21,4 @@ Each folder represents a specific topic or set of problems from the course. Insi
 
 ---
 
-Feel free to explore, learn, and improve your OOP skills! 🚀🔥  
+Feel free to explore, learn, and improve your OOP skills!
